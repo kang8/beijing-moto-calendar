@@ -1,0 +1,8 @@
+node_modules/
+build/
+dist/*
+!dist/
+!dist/plate-5.ics
+.DS_Store
+.env
+npm-debug.log*
